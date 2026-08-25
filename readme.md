@@ -1,7 +1,7 @@
 # Our github training package
 
 Contributors:
-- Maxim de Mey
+- Maxim de Mey.
 - Jeroen de Jonge
 - Martijn van Rosmalen.
 - Tobias van Diepen
