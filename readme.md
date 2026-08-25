@@ -2,4 +2,5 @@
 
 Contributors:
 - Maxim de Mey
+- Martijn van Rosmalen.
 - Tobias van Diepen
