@@ -2,5 +2,7 @@
 
 Contributors:
 - Maxim de Mey
-- Tobias van Diepen
 - Jeroen de Jonge
+- Martijn van Rosmalen.
+- Tobias van Diepen
+- Jeroen Dreschler
