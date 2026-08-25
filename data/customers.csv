@@ -1,0 +1,41 @@
+customer_id,customer_name,signup_date,segment
+C0001,Alex Martinez,2023-04-23,Retail
+C0002,Alex Garcia,2019-11-08,Wholesale
+C0003,Jamie Johnson,02/13/2025,Wholesale
+C0004,Jamie Brown,2022-11-27,Wholesale
+C0005,Taylor Williams,2021-04-22,Wholesale
+C0006,Taylor Garcia,11/21/2024,Retail
+C0007,Jordan Martinez,2023-12-08,Retail
+C0008,Jordan Williams,2022-07-09,Online
+C0009,Morgan Rodriguez,06/27/2024,Retail
+C0010,Morgan Brown,2020-01-26,Wholesale
+C0011,Casey Miller,2019-04-19,
+C0012,Casey Jones,04/21/2021,Wholesale
+C0013,  Riley Miller  ,2020-05-05,Retail
+C0014,Riley Davis,2024-09-18,Wholesale
+C0015,Cameron Martinez,07/12/2023,Retail
+C0016,Cameron Miller,2020-09-16,Retail
+C0017,Drew Smith,2020-11-06,Online
+C0018,Drew Johnson,10/03/2022,Wholesale
+C0019,Skyler Miller,2023-05-18,Retail
+C0020,Skyler Davis,2024-12-04,Online
+C0021,Reese Rodriguez,11/11/2025,Retail
+C0022,Reese Jones,2021-07-06,
+C0023,Quinn Smith,2023-03-17,Retail
+C0024,Quinn Jones,11/10/2025,Online
+C0025,Avery Rodriguez,2020-06-25,Retail
+C0026,  Avery Brown  ,2023-09-01,Online
+C0027,Peyton Garcia,02/12/2019,Wholesale
+C0028,Peyton Davis,2020-01-08,Online
+C0029,Rowan Johnson,2024-08-27,Retail
+C0030,Rowan Martinez,09/25/2025,Retail
+C0031,Emerson Williams,2023-03-09,Online
+C0032,Emerson Davis,2025-10-14,Retail
+C0033,Hayden Rodriguez,05/13/2024,
+C0034,Hayden Brown,2024-06-15,Online
+C0035,Kendall Davis,2020-04-03,Wholesale
+C0036,Kendall Johnson,10/18/2019,Retail
+C0037,Logan Martinez,2019-02-23,Online
+C0038,Logan Brown,2019-04-03,Retail
+C0039,  Sawyer Garcia  ,04/09/2023,Online
+C0040,Sawyer Johnson,2022-04-18,Retail

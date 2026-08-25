@@ -1,0 +1,22 @@
+product_id,product_name,category,unit_cost
+P001,Sparkling Water,Snacks,0.79
+P002,Cola Classic,DAIRY,3.32
+P003,Orange Juice,Bakery,8.97
+P004,Potato Chips,Produce,7.29
+P005,Pretzels,Household,0.84
+P006,Chocolate Bar,Beverages,
+P007,Whole Milk,Snacks,6.95
+P008,Cheddar Cheese,DAIRY,3.04
+P009,Greek Yogurt,bakery,9.81
+P010,Sourdough Bread,Produce,9.23
+P011,Croissant,Household,8.53
+P012,Bagels,beverages,3.7
+P013,Bananas,Snacks,11.51
+P014,Apples,DAIRY,1.68
+P015,Carrots,bakery,1.61
+P016,Paper Towels,produce,7.44
+P017,Dish Soap,Household,8.89
+P018,Laundry Detergent,BEVERAGES,1.94
+P019,Iced Tea,snacks,1.41
+P020,Trail Mix,DAIRY,10.04
+P003,Orange Juice,Bakery,8.97
