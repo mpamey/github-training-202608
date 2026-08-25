@@ -12,7 +12,7 @@
 import pandas as pd
 
 
-PATH_DATA = "/Users/maximdemey/Library/CloudStorage/OneDrive-AholdDelhaize.com/Documents/PycharmProjects/github-training-202608/data"
+PATH_DATA = "/PATH_TO_REPO/github-training-202608/data"
 
 
 def read_data(data_path: str) -> tuple[pd.DataFrame, pd.DataFrame]:
